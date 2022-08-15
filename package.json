@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "drip-nodejs": "^3.1.1"
+  }
+}
